@@ -1,4 +1,4 @@
-# myGitProject w/ Gemini
+# myGitProject
 
 ## Author
 * **Name: Kushtrim MURIQI (Trim)**
